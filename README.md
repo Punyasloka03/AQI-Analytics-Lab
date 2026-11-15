@@ -284,9 +284,9 @@ For these reasons, the experiment comparison chart is a summary of reported resu
 ## Dashboard Preview
  ### Project Demonstration
 
-Watch the complete AQI Analytics Lab walkthrough:
+Watch or download the complete AQI Analytics Lab walkthrough:
 
-[▶ Watch the AQI Analytics Lab Demo](demo/AQI_ANALYTICS_LAB_DEMO.mp4)
+[▶ AQI Analytics Lab — Project Demo](https://github.com/Punyasloka03/AQI-Analytics-Lab/releases/tag/v1.0-demo)
 
 
 The Streamlit application includes:
