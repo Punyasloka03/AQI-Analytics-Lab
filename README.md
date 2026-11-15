@@ -282,6 +282,11 @@ For these reasons, the experiment comparison chart is a summary of reported resu
 ---
 
 ## Dashboard Preview
+ ### Project Demonstration
+
+Watch the complete AQI Analytics Lab walkthrough:
+
+[▶ Watch the AQI Analytics Lab Demo](demo/AQI_ANALYTICS_LAB_DEMO.mp4)
 
 
 The Streamlit application includes:
@@ -317,6 +322,8 @@ aqi_dashboard/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
+├── demo/
+│   └── AQI_ANALYTICS_LAB_DEMO.mp4
 └── results/
     ├── experiment4_confusion_matrix.png
     └── experiment4_normalized_confusion_matrix.png
